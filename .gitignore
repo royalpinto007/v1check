@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.codebase-memory/
+*.tgz
+test-results/
+playwright-report/
