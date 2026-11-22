@@ -2,7 +2,12 @@
 
 Find Solana Transaction V1 migration issues before they surprise your app.
 
-![Example offline compatibility report](docs/screenshot.png)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/royalpinto007/v1check/main/docs/screenshot.png">
+  <img src="https://raw.githubusercontent.com/royalpinto007/v1check/main/docs/demo-preview.webp" alt="Scanning a Solana app and locating an RPC setting that excludes V1">
+</picture>
+
+[Download the 24-second demo (MP4)](https://github.com/royalpinto007/v1check/releases/download/project-demo/v1check-demo.mp4)
 
 [![CI](https://github.com/royalpinto007/v1check/actions/workflows/ci.yml/badge.svg)](https://github.com/royalpinto007/v1check/actions/workflows/ci.yml)
 [MIT](LICENSE) · [Architecture](docs/architecture.md) · [Rules and limits](docs/rules.md)
